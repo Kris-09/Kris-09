@@ -1,4 +1,4 @@
-# Hi, I'm Kris 👋
+# Hello, I'm Kris 👋
 
 🎓 Recent Computer Science Graduate from Oregon State University
 
@@ -46,7 +46,7 @@ Database-driven web application developed for CS340 at Oregon State University. 
 RESTful course management API (Canvas alternative) built for CS493. Features user roles (Admin, Instructor, Student), course and assignment management, submission handling, file uploads, offline plagiarism detection, and pagination. Tech stack includes Node.js, Express.js, Prisma ORM, PostgreSQL, RabbitMQ, JWT authentication, and Docker.
 
 ### Machine Learning Projects
-Projects encompassing machine learning, data mining, and deep learning coursework. Includes classification, regression, clustering, and neural network implementations using Python, scikit-learn, PyTorch, and TensorFlow.
+Projects encompassing machine learning, data mining, and deep learning coursework. Includes classification, regression, clustering, and neural network implementations using Python, and PyTorch.
 
 ### XRDrone – Capstone
 Real-time drone-to-XR perception pipeline developed for Oregon State University's CS461–463 Capstone. Integrates live drone video capture, camera-pose estimation (ArUco and ORB-SLAM3), human detection, and UDP scene-state transport to Unity XR visualization on Meta Quest 2. Features a dual-path architecture comparing fiducial-marker pose estimation with markerless SLAM-based pose estimation. Tech stack includes Python, Rust, Unity 6, OpenCV, YOLO, ORB-SLAM3, FFmpeg, RTSP, and MediaMTX.
