@@ -53,5 +53,5 @@ Real-time drone-to-XR perception pipeline developed for Oregon State University'
 
 ## Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/balakrishna-thirumavalavan-85197312b)
-- [Email](balast.sap@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/balakrishna-thirumavalavan-85197312b)
+- [Email](mailto:balast.sap@outlook.com)
