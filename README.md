@@ -74,7 +74,7 @@
 
 #### 🎳 [Bowling League Management System](https://github.com/Kris-09/Agents47-CS340)
 
-<sub>*CS340 – Introduction to Databases*</sub>
+<sub>*CS340 — Introduction to Databases*</sub>
 
 Database-driven web application managing a bowling league with 24 teams, 96 bowlers, and a 32-week season — tracking scores, lane assignments, handicaps, and standings. Full CRUD functionality across all entities.
 
@@ -88,7 +88,7 @@ Database-driven web application managing a bowling league with 24 teams, 96 bowl
 
 #### 📚 [Tarpaulin API](#)
 
-<sub>*Cloud Application Development — CS493, Oregon State University*</sub>
+<sub>*CS493 — Cloud Application Development*</sub>
 
 RESTful course management API (a Canvas alternative) supporting Admin/Instructor/Student roles, course and assignment management, submission handling, file uploads, offline plagiarism detection, and pagination.
 
@@ -104,7 +104,7 @@ RESTful course management API (a Canvas alternative) supporting Admin/Instructor
 
 #### 🧠 [Machine Learning & Deep Learning Projects](#)
 
-<sub>*ML/Data Mining & Applied Deep Learning coursework*</sub>
+<sub>*CS434 / CS435 — Machine Learning, Data Mining & Applied Deep Learning*</sub>
 
 Classification, regression, clustering, and neural network implementations built from scratch — including CNNs, VAEs, sequence models, and a transformer-based language model — using Python and PyTorch.
 
@@ -113,9 +113,9 @@ Classification, regression, clustering, and neural network implementations built
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
 
-#### 🚁 [XRDrone — Capstone Project](#)
+#### 🚁 [XRDrone — Capstone Project](https://github.com/XRDrone/XRDrone)
 
-<sub>*CS 461–463 Capstone, Oregon State University*</sub>
+<sub>*CS461–463 — XRDrone (Capstone)*</sub>
 
 Real-time drone-to-XR perception pipeline integrating live drone video capture, dual-path camera-pose estimation (ArUco marker-based and ORB-SLAM3 markerless), human detection, and UDP scene-state transport to Unity XR visualization on Meta Quest 2. Manuscript submitted to ACM VRST Symposium.
 
