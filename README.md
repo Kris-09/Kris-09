@@ -1,57 +1,49 @@
-# Hello, I'm Kris 👋
+<h1 align="center">Hi 👋, I'm Kris</h1> <h3 align="center">Recent Computer Science Graduate from Oregon State University</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Backend+Development;Security+%2B+Systems+Engineering;Databases+%2B+Distributed+Systems;AI+%2F+Machine+Learning" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/balakrishna-thirumavalavan-85197312b"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:balast.sap@outlook.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
-🎓 Recent Computer Science Graduate from Oregon State University
+🧭 About Me
+- 🎓 B.S. in Computer Science (Computer Systems), Oregon State University — magna cum laude
+- 🔭 Interested in Backend Development, Security, Systems Engineering, Databases, and AI/ML
+- 🌱 Currently sharpening my data structures & algorithms and expanding into cloud infrastructure
+- 💬 Ask me about drone perception pipelines, RESTful API design, or PyTorch model implementations
+- 📫 Reach me at balast.sap@outlook.com
 
-💻 Interested in Backend Development, Security, Systems Engineering, Databases, and AI/ML
+🛠️ Tech Stack
 
-## Tech Stack
+Languages
 
-Languages:
-- Python
-- JavaScript
-- Java
-- C
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> </p>
 
-Backend:
-- Node.js
-- Express
+Backend & Frameworks
 
-Databases:
-- PostgreSQL
-- MySQL
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> </p>
 
-Tools:
-- Git
-- Docker
-- Linux
+Databases
 
-Machine Learning:
-- PyTorch
+<p> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> </p>
 
-## Current Focus
+Tools & Infrastructure
 
-- Building and improving GET UP!
-- Exploring software engineering opportunities
-- Expanding my project portfolio
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/> </p>
 
-## Featured Projects
+Machine Learning
 
-### GET UP!
-Mobile productivity application focused on accountability and habit formation.
+<p> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> </p>
 
-### Introduction to Databases – Bowling League Management System
-Database-driven web application developed for CS340 at Oregon State University. Manages a bowling league with 24 teams, 96 bowlers, and a 32-week season—tracking scores, lane assignments, handicaps, and standings. Features full CRUD functionality for all entities including bowlers, teams, scores, and lane assignments. Built with Node.js, Express.js, Handlebars (HBS), MySQL, and phpMyAdmin. Hosted on Oregon State University's classwork server.
+🚀 Featured Projects
+🎳 Bowling League Management System
 
-### Cloud Application Development – Tarpaulin API
-RESTful course management API (Canvas alternative) built for CS493. Features user roles (Admin, Instructor, Student), course and assignment management, submission handling, file uploads, offline plagiarism detection, and pagination. Tech stack includes Node.js, Express.js, Prisma ORM, PostgreSQL, RabbitMQ, JWT authentication, and Docker.
+Introduction to Databases — CS340, Oregon State University Database-driven web application managing a bowling league with 24 teams, 96 bowlers, and a 32-week season — tracking scores, lane assignments, handicaps, and standings. Full CRUD functionality across all entities. Node.js Express Handlebars MySQL phpMyAdmin
 
-### Machine Learning Projects
-Projects encompassing machine learning, data mining, and deep learning coursework. Includes classification, regression, clustering, and neural network implementations using Python, and PyTorch.
+📚 Tarpaulin API
 
-### XRDrone – Capstone
-Real-time drone-to-XR perception pipeline developed for Oregon State University's CS461–463 Capstone. Integrates live drone video capture, camera-pose estimation (ArUco and ORB-SLAM3), human detection, and UDP scene-state transport to Unity XR visualization on Meta Quest 2. Features a dual-path architecture comparing fiducial-marker pose estimation with markerless SLAM-based pose estimation. Tech stack includes Python, Rust, Unity 6, OpenCV, YOLO, ORB-SLAM3, FFmpeg, RTSP, and MediaMTX.
+Cloud Application Development — CS493, Oregon State University RESTful course management API (a Canvas alternative) supporting Admin/Instructor/Student roles, course and assignment management, submission handling, file uploads, offline plagiarism detection, and pagination. Node.js Express Prisma PostgreSQL RabbitMQ JWT Docker
 
-## Connect With Me
+🧠 Machine Learning & Deep Learning Projects
 
-- [LinkedIn](https://www.linkedin.com/in/balakrishna-thirumavalavan-85197312b)
-- [Email](mailto:balast.sap@outlook.com)
+ML/Data Mining & Applied Deep Learning coursework Classification, regression, clustering, and neural network implementations built from scratch — including CNNs, VAEs, sequence models, and a transformer-based language model — using Python and PyTorch.
+
+🚁 XRDrone — Capstone Project
+
+CS 461–463 Capstone, Oregon State University Real-time drone-to-XR perception pipeline integrating live drone video capture, dual-path camera-pose estimation (ArUco marker-based and ORB-SLAM3 markerless), human detection, and UDP scene-state transport to Unity XR visualization on Meta Quest 2. Manuscript submitted to ACM VRST Symposium. Python Unity OpenCV YOLO ORB-SLAM3 FFmpeg RTSP MediaMTX
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=2E86C1" alt="Profile views"/> </p>
