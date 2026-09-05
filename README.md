@@ -86,7 +86,7 @@ Database-driven web application managing a bowling league with 24 teams, 96 bowl
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white"/>
 </p>
 
-#### 📚 [Tarpaulin API](#)
+#### 📚 [Tarpaulin API](https://github.com/osu-cs493-sp26/final-project-team-17)
 
 <sub>*CS493 — Cloud Application Development*</sub>
 
