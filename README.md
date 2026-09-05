@@ -72,7 +72,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🎳 [Bowling League Management System](#)
+#### 🎳 [Bowling League Management System](https://github.com/Kris-09/Agents47-CS340)
 
 <sub>*Introduction to Databases — CS340, Oregon State University*</sub>
 
