@@ -74,7 +74,7 @@
 
 #### 🎳 [Bowling League Management System](https://github.com/Kris-09/Agents47-CS340)
 
-<sub>*Introduction to Databases — CS340, Oregon State University*</sub>
+<sub>*CS340 – Introduction to Databases*</sub>
 
 Database-driven web application managing a bowling league with 24 teams, 96 bowlers, and a 32-week season — tracking scores, lane assignments, handicaps, and standings. Full CRUD functionality across all entities.
 
